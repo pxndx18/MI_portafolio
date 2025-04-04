@@ -73,6 +73,5 @@ El proyecto está configurado para ser desplegado en cualquier plataforma que so
 
 Para cualquier pregunta o sugerencia, no dudes en contactarme:
 
-- Email: [tu@email.com](mailto:tu@email.com)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- GitHub: [Tu Usuario](https://github.com/tu-usuario)
+- Email: [cecot12@email.com](#)
+- GitHub: [pxndx18](#)
